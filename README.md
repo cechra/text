@@ -26,4 +26,11 @@ Radovan Cechel
 
 Disclaimer: Obsah textu byl konzultován s Grok 3, Open AI O3 mini, DeepSeek R1 a Claude 3.5 Sonnet. 
 
-Tento otevřený dopis byl publikován na Github a zapsán do blockchainu Bitcoinu. 
+Tento otevřený dopis byl publikován na Github a zapsán do blockchainu Bitcoinu.
+Adresy:
+https://github.com/….md
+
+Ověření textu zapsaného bloku v Bitcoin bloku ID skrz aplikaci Gamma.io:
+7f99fe5d93c6388dc44040b206aaf41fd8f788be6f986ba9ef93dab614afcf33
+
+https://mempool.space/…ils
